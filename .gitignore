@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*~
